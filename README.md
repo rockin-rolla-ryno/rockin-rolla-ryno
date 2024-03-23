@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rockin-rolla-ryno
-- 👀 I’m interested in Cryptocurrency coding and smart contracts, industrial automation
-- 🌱 I’m currently learning scrypto
-- 💞️ I’m looking to collaborate with all people 
+- 👀 I’m interested in building something
+- 🌱 I’m currently predicting my path forward
+- 💞️ I’m looking to improve
 - 📫 How to reach me ... 
 
 <!---
